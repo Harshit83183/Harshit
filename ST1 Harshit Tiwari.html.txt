@@ -1,0 +1,17 @@
+<!DOCTYPE html> 
+<head>
+<title>Git Hub Registration Form</title>
+</head>
+<body>
+<h1 align="center">GIT HUB REGISTRATION FORM</h1>
+<form action="/submit registration" method="post">
+<label for="username">Username : </label><br/>
+<input type="text" id="username" name="username" required minilength="3" maxlength="39"/><br/><br/>
+<label for="email">Email : </label><br/>
+<input type="password">Password : </label><br/>
+<input type="password" id="password" name="password" required minilength="8"/><br/><br/>
+<label for="confirm password">Confirm Password : </label><br/>
+<input type="Submit" value="Register"/>
+</form>
+</body>
+</html>
