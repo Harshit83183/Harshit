@@ -1,0 +1,42 @@
+#box1{
+    background-color: red;
+    border: 1px solid black;
+    color: rgb(48, 182, 22);
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace';
+}
+#box2{
+    background-color: rgb(48, 30, 218);
+    border: 1px solid black;
+    color: rgb(216, 21, 174);
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace';
+}
+#box3{
+    background-color: rgb(221, 201, 23);
+    border: 1px solid rgb(48, 189, 189);
+    color: red;
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace';
+}
+#box4{
+    background-color: red;
+    border: 1px solid black;
+    color: rgb(28, 106, 207);
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace';
+}
+#box5{
+    background-color: rgb(5, 83, 73);
+    border: 1px solid rgb(9, 94, 47);
+    color: rgb(131, 15, 21);
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace';
+}
+#box6{
+    background-color: rgb(168, 113, 11);
+    border: 1px solid black;
+    color: rgb(10, 48, 92);
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace';
+}
